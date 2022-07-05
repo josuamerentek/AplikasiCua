@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplikasiCua</string>
+    <string name="proses">PROSES</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="tap_here">Tap Here !</string>
+</resources>
